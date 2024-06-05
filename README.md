@@ -1,6 +1,3 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadeeshaofficial1" alt="nadeeshaofficial1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -29,7 +26,7 @@ Studied Cetificate in Computer Science
 
 *- Lives in <b>Matara, Sri Lanka</b>📍🗺️*  
   
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
 <br/>
 
 ### Blogs posts
