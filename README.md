@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nadeesha Gayashan Pitiyekumbura ❤️</h1>
-<h3 align="center">Software Engineer Student | Frond End Web Developer & WordPress | Mobile Application Developer Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
 
@@ -7,25 +5,32 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [p1](www.nadeesha.asia)
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/157035022?v=4" align="center" height="200" width="200" />
+</div>  
+I'm <b>NADEESHA GAYASHAN PITIYEKUMBURA</b> 🧔🏻‍♂️, a 22-year-old <b>FULL STACK DEVELOPER.</b>👨🏻‍💻❤️ In Sri Lanka ✅  
+  
 
-- 🌱 I’m currently learning **Higher National Diploma in Software Engineering also i'm learning this frameworks( React JS, Next JS, Tailwind CSS, Three JS and TypeScript )**
+- <b>Software Engineering</b> student at the <b>National Institute of Business Management (NIBM).</b>👨‍🎓✅
+Studied Diploma in IT Software Engineering  
+  
 
-- 👯 I’m looking to collaborate on [p2](www.nadeesha.asia)
+- <b>Software Engineering</b> student at the <b>National Institute of Business Management (NIBM).</b>👨‍🎓✅
+Studied Higer National ( HND ) in Software Engineering  
+  
 
-- 🤝 I’m looking for help with [p3](www.nadeesha.asia)
+- <b>Software Engineering</b> student at the <b>National Institute of Business Management (NIBM).</b>👨‍🎓✅
+Studied Cetificate in Computer Science  
+  
 
-- 👨‍💻 All of my projects are available at [www.nadeesha.asia](www.nadeesha.asia)
+- Went to <b>MR/Yatiyana Maha Vidyalaya</b>☑️<br>
+- Went to <b>Vijitha Central College - Dickwella</b>☑️  
+  
 
-- 📝 I regularly write articles on [www.nadeesha.asia](www.nadeesha.asia)
+*- Lives in <b>Matara, Sri Lanka</b>📍🗺️*  
+  
 
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **officialnadeeshapitiyekumbura@gmail.com**
-
-- 📄 Know about my experiences [www.nadeesha.asia](www.nadeesha.asia)
-
-- ⚡ Fun fact **I can sing songs and watching movies**
+<br/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
