@@ -8,7 +8,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/157035022?v=4" align="center" height="200" width="200" />
 </div>  
-I'm <b>NADEESHA GAYASHAN PITIYEKUMBURA</b> 🧔🏻‍♂️, a 22-year-old <b>FULL STACK DEVELOPER.</b>👨🏻‍💻❤️ In Sri Lanka ✅  
+<div align="center">I'm <b>NADEESHA GAYASHAN PITIYEKUMBURA</b> 🧔🏻‍♂️, a 22-year-old <b>FULL STACK DEVELOPER.</b>👨🏻‍💻❤️ In Sri Lanka ✅</div>
   
 
 - <b>Software Engineering</b> student at the <b>National Institute of Business Management (NIBM).</b>👨‍🎓✅
