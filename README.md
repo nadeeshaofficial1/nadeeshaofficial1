@@ -26,7 +26,7 @@ Studied Cetificate in Computer Science
 
 *- Lives in <b>Matara, Sri Lanka</b>📍🗺️*  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
 <br/>
 
 ### Blogs posts
