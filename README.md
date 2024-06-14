@@ -3,7 +3,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/157035022?v=4" align="center" height="200" width="200" />
+<img src="https://avatars.githubusercontent.com/u/157035022?v=4" align="center" height="200" width="200" style="border: 2px solid #000; border-radius: 10px;" />
+
 </div>  
 <div align="center">I'm <b>NADEESHA GAYASHAN PITIYEKUMBURA</b> 🧔🏻‍♂️, a 22-year-old <b>FULL STACK DEVELOPER.</b>👨🏻‍💻❤️ In Sri Lanka ✅</div>
   
