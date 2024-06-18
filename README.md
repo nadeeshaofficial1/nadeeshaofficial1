@@ -1,7 +1,3 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk=nadeeshaofficial1" alt="nadeeshaofficial1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/157035022?v=4" align="center" height="200" width="200" style="border: 2px solid #fff; border-radius: 50px;" />
 
