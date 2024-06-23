@@ -26,8 +26,9 @@ Studied Cetificate in Computer Science
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
 <br/>
 
-### Blogs posts
+### Best Projects
 <!-- BLOG-POST-LIST:START -->
+1. CoinWalletX - Crypto Platform (https://github.com/nadeeshaofficial1/coinwalletx-crypto-wallet-springboot-react-ui)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
