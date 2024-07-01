@@ -10,11 +10,11 @@ Studied Diploma in IT Software Engineering
   
 
 - <b>Software Engineering</b> student at the <b>National Institute of Business Management (NIBM).</b>👨‍🎓✅
-Studied Higer National ( HND ) in Software Engineering  
+Studied Higher National ( HND ) in Software Engineering  
   
 
 - <b>Software Engineering</b> student at the <b>National Institute of Business Management (NIBM).</b>👨‍🎓✅
-Studied Cetificate in Computer Science  
+Studied Certificate in Computer Science  
   
 
 - Went to <b>MR/Yatiyana Maha Vidyalaya</b>☑️<br>
