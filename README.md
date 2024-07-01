@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/157035022?v=4" align="center" height="200" width="200" style="border: 2px solid #fff; border-radius: 50px;" />
-<br>
+  
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
 
 </div>  
