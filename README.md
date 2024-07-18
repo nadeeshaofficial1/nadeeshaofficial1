@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/157035022?v=4" align="center" height="200" width="200" style="border: 2px solid #fff; border-radius: 50px;" />
   <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
 <br/>
 </div>  
 <div align="center">I'm <b>NADEESHA GAYASHAN PITIYEKUMBURA</b> 🧔🏻‍♂️, a 22-year-old <b>FULL STACK DEVELOPER.</b>👨🏻‍💻❤️ In Sri Lanka ✅</div>
@@ -26,10 +25,18 @@ Studied Certificate in Computer Science
 *- Lives in <b>Matara, Sri Lanka</b>📍🗺️*  
   
 <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeeshaofficial1&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshaofficial1" /> </p>
 
 ### Best Projects
 <!-- BLOG-POST-LIST:START -->
-1. CoinWalletX - Crypto Platform (https://github.com/nadeeshaofficial1/coinwalletx-crypto-wallet-springboot-react-ui)
+1. CoinWalletX - (https://github.com/nadeeshaofficial1/coinwalletx-crypto-wallet-springboot-react-ui)
+2. Lexxo - (https://github.com/nadeeshaofficial1/Lexxo-NextJs-LMS)
+3. SLOC - (https://github.com/nadeeshaofficial1/sloc-diploma-final-project)
+4. Humax - (https://github.com/nadeeshaofficial1/Humax-Ai-Voice-NextJs)
+5. ChatBuddy - (https://github.com/nadeeshaofficial1/ChatBuddy-HTML-Chat-Platform)
+6. BloodDonate - (https://github.com/nadeeshaofficial1/blood_donate_app_4x)
+7. NextJs Auth - (https://github.com/nadeeshaofficial1/NextJs-Auth-Signup-Signin-Project)
+8. C++ Web Hosting Company - (https://github.com/nadeeshaofficial1/web-hosting-cplus)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
