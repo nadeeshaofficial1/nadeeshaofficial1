@@ -3,7 +3,7 @@
   <br>
 <br/>
 </div>  
-<div align="center">I'm <b>NADEESHA GAYASHAN PITIYEKUMBURA</b> 🧔🏻‍♂️, a 22-year-old <b>FULL STACK DEVELOPER.</b>👨🏻‍💻❤️ In Sri Lanka ✅</div>
+<div align="center">I'm <b>NADEESHA GAYASHAN PITIYEKUMBURA</b> 🧔🏻‍♂️, a 23-year-old <b>FULL STACK DEVELOPER.</b>👨🏻‍💻❤️ In Sri Lanka ✅</div>
   
 
 - <b>Software Engineering</b> student at the <b>National Institute of Business Management (NIBM).</b>👨‍🎓✅
